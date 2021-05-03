@@ -1,5 +1,5 @@
 # Vector Addition (CUDA)
-In this tutorial, we will look at a simple vector addition program, which is often used as the "Hello, World!" of GPU computing. We will assume an understanding of basic CUDA concepts, such as kernel functions and thread blocks. If you are not already familiar with such concepts, there are links at the bottom of this page that will show you where to begin.
+We will look at a simple vector addition program. We will assume an understanding of basic CUDA concepts, such as kernel functions and thread blocks. 
 
 Let's walk through the following CUDA C vector addition program:
 
@@ -230,9 +230,3 @@ Blocks In Grid    = 4096
 ```
 
 
-## Helpful Links
-
-CUDA C Programming Model: <a href="https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#programming-model">https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#programming-model</a>
-
-## Problems?
-If you see a problem with the code or have suggestions to improve it, feel free to open an issue.
